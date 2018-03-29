@@ -1,2 +1,3 @@
 # TaxPro-e-Way-Bill
 Free TaxPro e-Way Bill Library for intigration of e-Way Bill APIs.
+TaxPro e-Way Bill APIs libraries may be used to integrate eWay Bill API using any GSP or Directly from NIC Server. eWay Bill Free library does not have any code specific to TaxPro GSP but it’s open to use by any ASP through any GSP or directly through NIC servers for large bill generators who have direct API connectivity with NIC.  TaxPro e-Way Bill APIs libraries are easy to intigrate. Developer needs to write 2-3 line code thus developers may also easily integrate complex e-Way Bill APIs into their Desktop.
